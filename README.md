@@ -1,4 +1,4 @@
-###basic steps to create a new rocket project
+### Basic steps to create a new rocket project
 
 1. cargo init project-name --bin //To create the bin to run the project. rather than lib
 2. cd project-name
